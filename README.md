@@ -78,8 +78,6 @@ Interactive dashboard with 4 views:
 
 ## 🎯 Business Context
 
-**Target Application**: Data Analyst roles in aviation industry (Virgin Australia, Qantas, regional airlines)
-
 **Demonstrates**:
 - Understanding of aviation KPIs (Load Factor, RPK/ASK, OTP)
 - Ability to source and work with government statistical data
